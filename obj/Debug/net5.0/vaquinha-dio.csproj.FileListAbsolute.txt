@@ -1,0 +1,5 @@
+C:\Users\Windows 7\Desktop\vaquinha-dio\obj\Debug\net5.0\vaquinha-dio.csprojAssemblyReference.cache
+C:\Users\Windows 7\Desktop\vaquinha-dio\obj\Debug\net5.0\vaquinha-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\vaquinha-dio\obj\Debug\net5.0\vaquinha-dio.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\vaquinha-dio\obj\Debug\net5.0\vaquinha-dio.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\vaquinha-dio\obj\Debug\net5.0\vaquinha-dio.csproj.CoreCompileInputs.cache
